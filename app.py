@@ -1,5 +1,4 @@
 import streamlit as st
-import fastai
 from fastai.vision.all import *
 import plotly.express as px
 import pathlib
